@@ -68,10 +68,6 @@ This project is ideal for developers looking to build next-gen e-commerce platfo
   /assets          → Images, icons
 ```
 
----
-
-Absolutely! Here's your **AI Commerce Copilot** project’s workflow in Mermaid (flowchart) format, structured just like your example:
-
 
 ## 🔄 Workflow Diagram
 
@@ -230,9 +226,9 @@ A big shoutout to the amazing team behind AI Commerce Copilot:
 | 👥 Role              | 🧑‍💻 Contributor    |
 |---------------------|--------------------|
 | 🧠 Project Lead      | **Zlmaoooo**       |
-| 🎨 UI/UX Designer    | **[Teammate 3]**   |
-| ⚛️ Frontend Wizard   | **[Teammate 1]**   |
-| 🛠️ Backend Ninja     | **[Teammate 2]**   |
+| 🎨 UI/UX Designer    | **[smriti](https://github.com/smriti1804)** , Zlmaoooo   |
+| ⚛️ Frontend Wizard   | **[smriti](https://github.com/smriti1804)** , Zlmaoooo   |
+| 🛠️ Backend Ninja     | **[Vedanga](https://github.com/vdngkch)** , [Protik Biswas](https://github.com/Sheeshz)   |
 
 
 ## 📜 License
